@@ -6,7 +6,7 @@ This repo has everything I worked through while teaching myself how to build an 
 
 To make sure the Jupyter Notebooks in this repo, run:
 
-```
+```zsh
 source setup.sh
 ```
 
@@ -14,7 +14,7 @@ which will activate a Python virtual environment and instal ipykernel and the Py
 
 If you do not have a virtual environment, run
 
-```
+```zsh
 python3 -m venv .venv
 ```
 
